@@ -97,6 +97,10 @@ class App extends React.Component {
             />
           </DateTimeRangeContainer>
         </div>
+        <div>
+        
+        <img src="https://media.istockphoto.com/photos/valley-of-flowers-india-picture-id478090988?s=612x612"/>
+        </div>
       </div>
     );
   }
